@@ -3,7 +3,7 @@
 A simple library for discovering the IP address of the default gateway.
 
 
-[![Build Status](https://travis-ci.org/net-byte/go-gateway.svg)](https://travis-ci.org/net-byte/go-gateway)
+[![Build Status](https://travis-ci.org/walter-du/go-gateway.svg)](https://travis-ci.org/walter-du/go-gateway)
 
 Provides implementations for:
 
